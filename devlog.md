@@ -1,6 +1,6 @@
 # Fall 2024 - Intro to Game Design @ SUNY New Paltz
-* Name: Your Name
-* [Trello Board](https://trello.com/b/4XXSTzDK/new-paltz-game-design-final-project-template)
+* Name: John Duran
+* [Trello Board](https://trello.com/b/sZigTLyd/johns-game-design-project)
 * [Proposal](proposal.pdf)
 * [Other docs](todo)
 
